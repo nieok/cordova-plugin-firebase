@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "713878278801",
+    "firebase_url": "https://checkin-koein.firebaseio.com",
+    "project_id": "checkin-koein",
+    "storage_bucket": "checkin-koein.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713878278801:android:f22e0b25f9276b54",
+        "android_client_info": {
+          "package_name": "com.koein.checkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713878278801-edrc421tvaf018pm2ivept624mb1lefg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXWL34_4lq0moH4r8U6TkQO0o0ZYosA_s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
