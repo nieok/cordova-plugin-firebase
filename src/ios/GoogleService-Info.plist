@@ -2,5 +2,39 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>713878278801-2lvpv9r2eu4e5osp559pd0jnbnvh15t6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.713878278801-2lvpv9r2eu4e5osp559pd0jnbnvh15t6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnrw-qXxENeb5sQBi7louyOCzZRbrFpg4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>713878278801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.koein.checkin</string>
+	<key>PROJECT_ID</key>
+	<string>checkin-koein</string>
+	<key>STORAGE_BUCKET</key>
+	<string>checkin-koein.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:713878278801:ios:f22e0b25f9276b54</string>
+	<key>DATABASE_URL</key>
+	<string>https://checkin-koein.firebaseio.com</string>
 </dict>
 </plist>
