@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "858376682436",
-    "firebase_url": "https://mobi-resellers.firebaseio.com",
-    "project_id": "mobi-resellers",
-    "storage_bucket": "mobi-resellers.appspot.com"
+    "project_number": "421885667690",
+    "firebase_url": "https://mcdoctor-eb3b6.firebaseio.com",
+    "project_id": "mcdoctor-eb3b6",
+    "storage_bucket": "mcdoctor-eb3b6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:858376682436:android:93548d0f2ec126cf",
+        "mobilesdk_app_id": "1:421885667690:android:4b92506eada5bd95",
         "android_client_info": {
-          "package_name": "com.koein.mobireseller"
+          "package_name": "com.koein.mcdoctor"
         }
       },
       "oauth_client": [
         {
-          "client_id": "858376682436-krnudg1s4hacc28vctnq2uks4tncs2dj.apps.googleusercontent.com",
+          "client_id": "421885667690-sgja3rbbkd56gpprtqjhei4om7dt85j1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCNiQHwEZMWkAQ-kH48LZ6xiseHwZL8kXY"
+          "current_key": "AIzaSyAiM3WQQEayTxDwBNW6Okl_Y3i2Pxz0dq4"
         }
       ],
       "services": {
