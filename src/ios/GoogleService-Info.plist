@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>421885667690-cc6qlq6u3d23cniat5i8p8ip2staln12.apps.googleusercontent.com</string>
+	<string>932533858352-bi61guf0fjk9rvh9h4rcmrfroh1gto6l.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.421885667690-cc6qlq6u3d23cniat5i8p8ip2staln12</string>
+	<string>com.googleusercontent.apps.932533858352-bi61guf0fjk9rvh9h4rcmrfroh1gto6l</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBxO9tbrq-hBLztQliNQfPkuHDcyY47T1s</string>
+	<string>AIzaSyBLbyxGNavU2UNCb1HV96526xis5PwFsns</string>
 	<key>GCM_SENDER_ID</key>
-	<string>421885667690</string>
+	<string>932533858352</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.koein.mcdoctor</string>
+	<string>com.koein.mcpatient</string>
 	<key>PROJECT_ID</key>
-	<string>mcdoctor-eb3b6</string>
+	<string>mcpatient-39e57</string>
 	<key>STORAGE_BUCKET</key>
-	<string>mcdoctor-eb3b6.appspot.com</string>
+	<string>mcpatient-39e57.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true></true>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:421885667690:ios:4b92506eada5bd95</string>
+	<string>1:932533858352:ios:e9a9c37837c64c55</string>
 	<key>DATABASE_URL</key>
-	<string>https://mcdoctor-eb3b6.firebaseio.com</string>
+	<string>https://mcpatient-39e57.firebaseio.com</string>
 </dict>
 </plist>
