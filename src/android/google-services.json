@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "421885667690",
-    "firebase_url": "https://mcdoctor-eb3b6.firebaseio.com",
-    "project_id": "mcdoctor-eb3b6",
-    "storage_bucket": "mcdoctor-eb3b6.appspot.com"
+    "project_number": "932533858352",
+    "firebase_url": "https://mcpatient-39e57.firebaseio.com",
+    "project_id": "mcpatient-39e57",
+    "storage_bucket": "mcpatient-39e57.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:421885667690:android:4b92506eada5bd95",
+        "mobilesdk_app_id": "1:932533858352:android:e9a9c37837c64c55",
         "android_client_info": {
-          "package_name": "com.koein.mcdoctor"
+          "package_name": "com.koein.mcpatient"
         }
       },
       "oauth_client": [
         {
-          "client_id": "421885667690-sgja3rbbkd56gpprtqjhei4om7dt85j1.apps.googleusercontent.com",
+          "client_id": "932533858352-fsk5cn98475jflfn7p1bfe8bl8co1p04.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAiM3WQQEayTxDwBNW6Okl_Y3i2Pxz0dq4"
+          "current_key": "AIzaSyCgscgHZ_6AuPElXvmVMM-WT8L6IwqKLWs"
         }
       ],
       "services": {
