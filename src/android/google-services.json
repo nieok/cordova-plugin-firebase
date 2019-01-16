@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "858376682436",
-    "firebase_url": "https://mobi-resellers.firebaseio.com",
-    "project_id": "mobi-resellers",
-    "storage_bucket": "mobi-resellers.appspot.com"
+    "project_number": "92876294135",
+    "firebase_url": "https://mymobi-937eb.firebaseio.com",
+    "project_id": "mymobi-937eb",
+    "storage_bucket": "mymobi-937eb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:858376682436:android:93548d0f2ec126cf",
+        "mobilesdk_app_id": "1:92876294135:android:a20c5e0972e86432",
         "android_client_info": {
-          "package_name": "com.koein.mobireseller"
+          "package_name": "com.koein.mymobi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "858376682436-krnudg1s4hacc28vctnq2uks4tncs2dj.apps.googleusercontent.com",
+          "client_id": "92876294135-eas35m0397n3ia2sb7cgedh9tt4b8j5n.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCNiQHwEZMWkAQ-kH48LZ6xiseHwZL8kXY"
+          "current_key": "AIzaSyArpY02E6hqUEzMhev9KN0MY2bxLTKzao4"
         }
       ],
       "services": {
